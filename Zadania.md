@@ -8,4 +8,4 @@
 * When is ‘Academy Dinosaur’ due?
 * What is that average running time of all the films in the sakila DB?
 * What is the average running time of films by category?
-* Why does this query return the empty set?
+
